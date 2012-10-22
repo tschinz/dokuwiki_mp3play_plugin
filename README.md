@@ -108,7 +108,7 @@ The Flash Player used from [Charles](http://sexywp.com/flash-player-widget.htm).
 
 ## Documentation
 
-All documentation for the Paypal Plugin is available online at:
+All documentation for the Mp3Play Plugin is available online at:
 
   * [Dokuwiki Plugin Page](http://dokuwiki.org/plugin:mp3play2)
   * [ZaWiki Plugin Page](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:dw_mp3play)

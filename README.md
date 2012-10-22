@@ -25,7 +25,7 @@
     <th align="left">Tags</th>
     <td>music, mp3, stream, flash, embed</td>
   </tr>
-`</table>
+</table>
 
 ## Download
 * Download to Dokuwiki plugin folder
@@ -84,7 +84,7 @@ namespace:folder:subfolder:....:playlist.xml
     <td>320</td>
     <td>Height in pixel or %</td>
   </tr>
-`</table>
+</table>
 
 ## Playlist example
 ```xml

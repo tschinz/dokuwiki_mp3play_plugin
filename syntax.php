@@ -1,7 +1,7 @@
 <?php
 /*
  * DokuWiki mp3play plugin
- * Copyright (C) 2011 Zahno Silvan
+ * 2011 Zahno Silvan
  * Usage:
  *
  * {{mp3play>place_of_playlist.xml}} 

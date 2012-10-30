@@ -114,4 +114,4 @@ All documentation for the Mp3Play Plugin is available online at:
   * [ZaWiki Plugin Page](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:dw_mp3play)
   * [Github Project Page](https://github.com/tschinz/dokuwiki_mp3play_plugin)
 
-(c) 2011 by Zahno Silvan <zaswiki@gmail.com>
+2011 by Zahno Silvan <zaswiki@gmail.com>

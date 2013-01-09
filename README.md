@@ -96,22 +96,22 @@ namespace:folder:subfolder:....:playlist.xml
 </songs>
 ```
 
-Download the example playlist [here](http://zawiki.dyndns.org/~zas/zawiki/lib/exe/fetch.php/tschinz:programming:dw:mp3play:playlist.xml)
+Download the example playlist [here](http://zawiki.dyndns.org/lib/exe/fetch.php/tschinz:programming:dw:mp3play:playlist.xml)
 
 ## Thanks
 The Flash Player used from [Charles](http://sexywp.com/flash-player-widget.htm). Originally a WordPress Plugin.
 
 ## Example
-![Screennshot 1](http://zawiki.dyndns.org/~zas/zawiki/lib/exe/fetch.php/tschinz:programming:dw:mp3play:mp3play_1.png)
-![Screennshot 2](http://zawiki.dyndns.org/~zas/zawiki/lib/exe/fetch.php/tschinz:programming:dw:mp3play:mp3play_2.png)
-![Screennshot 3](http://zawiki.dyndns.org/~zas/zawiki/lib/exe/fetch.php/tschinz:programming:dw:mp3play:mp3play_3.png)
+![Screennshot 1](http://zawiki.dyndns.org/lib/exe/fetch.php/tschinz:programming:dw:mp3play:mp3play_1.png)
+![Screennshot 2](http://zawiki.dyndns.org/lib/exe/fetch.php/tschinz:programming:dw:mp3play:mp3play_2.png)
+![Screennshot 3](http://zawiki.dyndns.org/lib/exe/fetch.php/tschinz:programming:dw:mp3play:mp3play_3.png)
 
 ## Documentation
 
 All documentation for the Mp3Play Plugin is available online at:
 
   * [Dokuwiki Plugin Page](http://dokuwiki.org/plugin:mp3play2)
-  * [ZaWiki Plugin Page](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:dw_mp3play)
+  * [ZaWiki Plugin Page](http://zawiki.dyndns.org/doku.php/tschinz:dw_mp3play)
   * [Github Project Page](https://github.com/tschinz/dokuwiki_mp3play_plugin)
 
 2011 by Zahno Silvan <zaswiki@gmail.com>

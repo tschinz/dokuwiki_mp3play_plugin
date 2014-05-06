@@ -42,7 +42,7 @@ class syntax_plugin_mp3play extends DokuWiki_Syntax_Plugin {
             'date'   => '2011-02-17',
             'name'   => 'Mp3Play Plugin',
             'desc'   => 'Embedding MP3 Player for Files and Streams',
-            'url'    => 'http://zawiki.dyndns.org/doku.php/tschinz:dw_mp3play',
+            'url'    => 'http://zawiki.zapto.org/doku.php/tschinz:dw_mp3play',
         );
     }
 

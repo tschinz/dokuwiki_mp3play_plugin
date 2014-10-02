@@ -40,7 +40,7 @@ class syntax_plugin_mp3play extends DokuWiki_Syntax_Plugin {
             'author' => 'Zahno Silvan',
             'email'  => 'zaswiki@gmail.com',
             'date'   => '2011-02-17',
-            'name'   => 'Mp3Play Plugin',
+            'name'   => 'Mp3Play2 Plugin',
             'desc'   => 'Embedding MP3 Player for Files and Streams',
             'url'    => 'http://zawiki.zapto.org/doku.php/tschinz:dw_mp3play',
         );
